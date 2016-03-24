@@ -1,4 +1,4 @@
-package Guloso;
+package ProjetoDeAlgoritmo;
 
 import java.util.Scanner;
 
